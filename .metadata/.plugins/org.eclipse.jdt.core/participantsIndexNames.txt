@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+/Users/Allen/work/code/basketball-heat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/842968486.index
+/bh-web/src/main/resources
+/Users/Allen/work/code/basketball-heat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/50854442.index
+/bh-web/src/main/resources

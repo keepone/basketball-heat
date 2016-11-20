@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1479651687073_0" label="basketball-heat" name="basketball-heat">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/basketball-heat" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bh-dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bh-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bh-model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bh-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bh-api" type="4"/>
+</workingSet>
+</workingSetManager>

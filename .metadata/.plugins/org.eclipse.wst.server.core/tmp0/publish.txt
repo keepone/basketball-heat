@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Sun Nov 20 22:29:58 CST 2016
+org.eclipse.jst.j2ee.server\:bh-core=WEB-INF/lib/bh-core-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:/binary\:/Users/Allen/.m2/repository/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.jar=WEB-INF/lib/spring-web-4.1.1.RELEASE.jar
+org.eclipse.jst.j2ee.server\:bh-dao=WEB-INF/lib/bh-dao-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:bh-model=WEB-INF/lib/bh-model-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:bh-api=WEB-INF/lib/bh-api-0.0.1-SNAPSHOT.jar
